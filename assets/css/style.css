@@ -1,0 +1,27 @@
+.header{
+    background-color: #FCF8F3;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 45px;
+    /* margin: 20px auto; */
+}
+
+
+.header-left{
+    display: flex;
+    align-content: center;
+}
+
+.header-nav__list{
+    display: flex;
+    align-content: center;
+}
+
+.header-info__list{
+    display: flex;
+    align-content: center;
+
+}
